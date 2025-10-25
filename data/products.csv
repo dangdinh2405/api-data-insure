@@ -1,0 +1,241 @@
+Category,Cost,Description,Eligibility,Monthly,ID,Product Name,Year,Company name
+Life Insurance,500000000,Comprehensive term life coverage with flexible premium payment.,Vietnam residents aged 18-55,1200000,P001,Manulife Life Secure,20,Manulife
+Health Insurance,200000000,Hospitalization and surgical expense coverage.,Vietnam residents aged 20-60,800000,P002,Manulife Health Protect,10,Manulife
+Accident Insurance,150000000,Accidental death and disability benefits.,Vietnam residents aged 18-65,500000,P003,Manulife Accident Guard,5,Manulife
+Savings Plan,1000000000,Savings plan with guaranteed returns and life coverage.,Vietnam residents aged 25-55,1500000,P004,Manulife Savings Plus,25,Manulife
+Retirement Plan,2000000000,Provides regular income after retirement.,Vietnam residents aged 30-60,2000000,P005,Manulife Retirement Income,30,Manulife
+Critical Illness,300000000,Lump‑sum payout upon diagnosis of covered illnesses.,Vietnam residents aged 25-60,900000,P006,Manulife Critical Illness Cover,15,Manulife
+Family Health Insurance,250000000,Covers entire family for hospital and outpatient care.,Vietnam families (head of household 25-55),1200000,P007,Manulife Family Health,12,Manulife
+Education Savings,500000000,Savings for children's higher education with life protection.,Parents aged 25-45,700000,P008,Manulife Child Education Plan,18,Manulife
+Travel Insurance,10000000,Medical and trip cancellation coverage for overseas trips.,Vietnam residents traveling abroad,200000,P009,Manulife Travel Protect,1,Manulife
+Property Insurance,200000000,"Covers fire, natural disaster, and theft.",Homeowners aged 25-65,600000,P010,Manulife Home Owner Protect,10,Manulife
+Liability Insurance,300000000,Protects against third‑party claims.,SMEs aged 18-65,1100000,P011,Manulife Business Liability,5,Manulife
+Critical Illness,250000000,Dedicated coverage for cancer treatment costs.,Vietnam residents aged 30-60,850000,P012,Manulife Cancer Care,12,Manulife
+Health Insurance,150000000,Hospital and outpatient coverage for seniors.,Seniors aged 60-75,750000,P013,Manulife Senior Care,8,Manulife
+Income Protection,200000000,Monthly income replacement if unable to work.,Employed adults aged 25-55,950000,P014,Manulife Income Protect,7,Manulife
+Disability Insurance,180000000,Long‑term disability benefits.,Vietnam residents aged 20-55,800000,P015,Manulife Disability Shield,10,Manulife
+Health Insurance,120000000,Tailored health coverage for women.,Women aged 18-55,650000,P016,Manulife Women’s Health,10,Manulife
+Health Insurance,100000000,Maternity hospital and prenatal care.,Pregnant women aged 20-45,500000,P017,Manulife Pregnancy Care,2,Manulife
+Group Life Insurance,400000000,Life coverage for all eligible staff.,Companies with 10+ employees,1300000,P018,Manulife Group Life,15,Manulife
+Accident Insurance,120000000,Accidental death and medical expense benefits.,Individuals aged 18-65,450000,P019,Manulife Personal Accident,5,Manulife
+Mortgage Protection,250000000,Pays off mortgage if policyholder passes away.,Homeowners with mortgage,700000,P020,Manulife Mortgage Protect,20,Manulife
+Investment-linked,1500000000,Combines investment growth with life coverage.,Adults aged 30-60,2500000,P021,Manulife Wealth Builder,20,Manulife
+Life Insurance,600000000,Affordable term life with renewal options.,Vietnam residents aged 18-55,1100000,P022,Manulife Term Life Plus,25,Manulife
+Health Insurance,50000000,Daily cash benefit during hospital stay.,Individuals aged 18-65,300000,P023,Manulife Hospital Cash,1,Manulife
+Dental Insurance,30000000,Covers dental procedures and orthodontics.,Adults aged 18-60,250000,P024,Manulife Dental Protect,2,Manulife
+Vision Insurance,20000000,"Covers eye exams, glasses, and contacts.",Adults aged 18-60,200000,P025,Manulife Vision Care,2,Manulife
+Retirement Income,1800000000,Guaranteed monthly pension after retirement.,Seniors aged 55-70,1900000,P026,Manulife Senior Income,30,Manulife
+Health Insurance,80000000,Pediatric hospital and outpatient coverage.,Parents with children aged 0-12,400000,P027,Manulife Child Health,10,Manulife
+Business Insurance,500000000,Protects revenue loss from interruptions.,SMEs aged 18-65,1200000,P028,Manulife Business Continuity,5,Manulife
+Property Insurance,250000000,Coverage for flood damage.,Homeowners in flood‑prone areas,550000,P029,Manulife Flood Protect,10,Manulife
+Property Insurance,300000000,Coverage for earthquake damage.,Homeowners in seismic zones,600000,P030,Manulife Earthquake Shield,10,Manulife
+Loan Protection,150000000,Pays off loan if borrower dies or becomes disabled.,Individuals with personal loans,500000,P031,Manulife Personal Loan Protect,5,Manulife
+Auto Insurance,200000000,Comprehensive car coverage.,Car owners aged 18-70,850000,P032,Manulife Car Owner Protect,5,Manulife
+Commercial Auto,400000000,Coverage for multiple commercial vehicles.,Businesses with vehicle fleets,1500000,P033,Manulife Motor Fleet,5,Manulife
+Pet Insurance,50000000,Veterinary expense coverage for dogs and cats.,Pet owners aged 18-65,300000,P034,Manulife Pet Care,2,Manulife
+Cyber Liability,250000000,Protects against data breach costs.,Businesses handling data,1300000,P035,Manulife Cyber Risk,3,Manulife
+Education Loan Protection,100000000,Pays off loan if borrower passes away.,Students with education loans,400000,P036,Manulife Education Loan Cover,5,Manulife
+Life Insurance,700000000,Adjustable premium schedule.,Vietnam residents aged 18-55,1300000,P037,Manulife Flexible Premium Life,20,Manulife
+Health Insurance,300000000,Covers nursing home and home care costs.,Adults aged 45-70,900000,P038,Manulife Long‑Term Care,10,Manulife
+Income Protection,220000000,Income replacement for business owners.,Self‑employed aged 25-55,1000000,P039,Manulife Income Plus,8,Manulife
+Group Benefits,600000000,Comprehensive health and life benefits for employees.,Companies with 50+ staff,1400000,P040,Manulife Employee Benefits,12,Manulife
+Critical Illness,200000000,Continued coverage after remission.,Cancer survivors aged 30-65,800000,P041,Manulife Cancer Survivor,12,Manulife
+Property Insurance,220000000,Combined flood and storm damage coverage.,Homeowners in coastal areas,580000,P042,Manulife Flood & Storm,10,Manulife
+Business Insurance,800000000,"Package of liability, property, and business interruption.",Small enterprises,1700000,P043,Manulife Small Business Bundle,5,Manulife
+Health Savings,150000000,Tax‑advantaged health spending account.,Individuals aged 25-60,600000,P044,Manulife Health Savings Account,10,Manulife
+Travel Insurance,15000000,Medical expenses coverage while overseas.,Vietnam residents traveling abroad,250000,P045,Manulife Travel Medical,1,Manulife
+Life Insurance,80000000,Provides funds for funeral expenses.,Individuals aged 18-70,350000,P046,Manulife Funeral Cover,5,Manulife
+Group Life,350000000,Basic life coverage for staff.,Companies with 20+ employees,1200000,P047,Manulife Employee Life,15,Manulife
+Critical Illness,400000000,Broader list of covered conditions.,Vietnam residents aged 30-60,1100000,P048,Manulife Critical Illness Plus,15,Manulife
+Health Insurance,180000000,Hospital and outpatient coverage for older adults.,Seniors aged 60-75,850000,P049,Manulife Senior Health,8,Manulife
+Investment-linked,2000000000,Investment growth with death benefit.,Adults aged 35-60,2600000,P050,Manulife Wealth Accumulator,25,Manulife
+Disability Insurance,210000000,Monthly disability income.,Employed adults aged 25-55,950000,P051,Manulife Disability Income,10,Manulife
+Property Insurance,120000000,Covers damage during renovation.,Homeowners renovating,500000,P052,Manulife Home Renovation Protect,5,Manulife
+Liability Insurance,250000000,Third‑party liability coverage.,SMEs,900000,P053,Manulife Small Business Liability,5,Manulife
+Accident Insurance,80000000,Accidental injury coverage for kids.,Parents with children,350000,P054,Manulife Child Accident,5,Manulife
+Savings Plan,900000000,Flexible contribution savings with life cover.,Vietnam residents aged 25-55,1400000,P055,Manulife Flexible Savings,20,Manulife
+Critical Illness,350000000,Enhanced cancer treatment coverage.,Vietnam residents aged 30-60,950000,P056,Manulife Cancer Care Plus,12,Manulife
+Travel Insurance,12000000,Trip cancellation and interruption.,Travelers,220000,P057,Manulife Travel Cancel Protect,1,Manulife
+Business Insurance,450000000,Protects personal assets of business owners.,Business owners,1300000,P058,Manulife Business Owner Protect,5,Manulife
+Health Insurance,220000000,Long‑term care and nursing home coverage.,Elderly aged 65-80,800000,P059,Manulife Elderly Care,8,Manulife
+Life Insurance,800000000,High coverage term life with renewal.,Vietnam residents aged 18-55,1500000,P060,Manulife Life Shield,30,Manulife
+Health Insurance,250000000,Comprehensive health coverage with low co‑pay.,Adults aged 20-60,950000,P061,Manulife Health Shield,12,Manulife
+Mortgage Protection,300000000,Covers monthly mortgage payments.,Homeowners with mortgage,750000,P062,Manulife Mortgage Payment Protect,20,Manulife
+Business Insurance,500000000,Compensates lost income after disruptions.,Businesses,1600000,P063,Manulife Business Interruption,5,Manulife
+Critical Illness,250000000,Critical illness cover for older adults.,Seniors aged 55-75,850000,P064,Manulife Critical Illness Senior,10,Manulife
+Group Health Insurance,700000000,Comprehensive health benefits for employees.,Companies with 30+ staff,1500000,P065,Manulife Group Health,12,Manulife
+Loan Protection,120000000,Pays off loan on death or disability.,Individuals with personal loans,450000,P066,Manulife Personal Loan Insurance,5,Manulife
+Auto Insurance,150000000,Third‑party liability coverage.,Car owners,700000,P067,Manulife Auto Liability,5,Manulife
+Dental Insurance,50000000,Dental care for whole family.,Families,300000,P068,Manulife Dental Family,2,Manulife
+Vision Insurance,25000000,Eye care for family members.,Families,250000,P069,Manulife Vision Family,2,Manulife
+Health Insurance,60000000,Health coverage for university students.,Students,350000,P070,Manulife Student Health,1,Manulife
+Savings Plan,1100000000,Savings with life protection.,Adults,2000000,P071,Manulife Life Savings,25,Manulife
+Critical Illness,300000000,Coverage for any family member.,Families,900000,P072,Manulife Critical Illness Family,12,Manulife
+Retirement Plan,2500000000,Long‑term retirement savings.,Adults,2600000,P073,Manulife Retirement Savings,30,Manulife
+Property Insurance,150000000,Covers personal belongings inside home.,Homeowners,500000,P074,Manulife Home Contents,10,Manulife
+Property Insurance,600000000,Covers business premises and assets.,Businesses,1400000,P075,Manulife Business Property,5,Manulife
+Accident & Health,200000000,Combined accident and health benefits.,Individuals,850000,P076,Manulife Accident & Health,10,Manulife
+Travel Insurance,18000000,Emergency medical evacuation.,Travelers,260000,P077,Manulife Travel Emergency,1,Manulife
+Life Insurance,900000000,High coverage with flexible terms.,Vietnam residents,1600000,P078,Manulife Life Protect Plus,30,Manulife
+Health Insurance,300000000,Enhanced health coverage.,Adults,1000000,P079,Manulife Health Protect Plus,12,Manulife
+Income Protection,230000000,Income replacement for freelancers.,Self‑employed,1050000,P080,Manulife Income Shield,8,Manulife
+Liability Insurance,350000000,Extended third‑party liability.,Businesses,1200000,P081,Manulife Business Liability Plus,5,Manulife
+Critical Illness,500000000,Premium coverage for elite clients.,High‑net‑worth,1300000,P082,Manulife Critical Illness Elite,15,Manulife
+Life Insurance,750000000,Life coverage for whole family.,Families,1400000,P083,Manulife Family Life,25,Manulife
+Travel Insurance,25000000,Travel coverage for older adults.,Seniors,300000,P084,Manulife Senior Travel,1,Manulife
+Life Insurance,400000000,Life coverage protecting business continuity.,Business owners,1100000,P085,Manulife Business Owner Life,20,Manulife
+Health Insurance,350000000,Comprehensive health with wellness benefits.,Adults,1050000,P086,Manulife Health Plus,12,Manulife
+Disability Insurance,250000000,Higher benefit amounts.,Employed,950000,P087,Manulife Disability Plus,10,Manulife
+Travel Insurance,20000000,Travel coverage for whole family.,Families,280000,P088,Manulife Travel Family,1,Manulife
+Mortgage Protection,350000000,Life cover linked to mortgage balance.,Homeowners,800000,P089,Manulife Mortgage Life,20,Manulife
+Property Insurance,400000000,Broad property damage coverage.,Homeowners,1300000,P090,Manulife Property Shield,10,Manulife
+Travel Insurance,30000000,Travel insurance for corporate trips.,Business travelers,350000,P091,Manulife Business Travel,1,Manulife
+Life Insurance,600000000,Life cover tailored for seniors.,Seniors,1200000,P092,Manulife Life Secure Senior,25,Manulife
+Health Insurance,280000000,Secure health coverage with low co‑pay.,Adults,950000,P093,Manulife Health Secure,12,Manulife
+Accident Insurance,130000000,Accident death and medical benefits.,Individuals,500000,P094,Manulife Accident Secure,5,Manulife
+Savings Plan,1200000000,Secure savings with life protection.,Adults,2100000,P095,Manulife Savings Secure,25,Manulife
+Critical Illness,380000000,Secure critical illness coverage.,Adults,1050000,P096,Manulife Critical Illness Secure,12,Manulife
+Property Insurance,250000000,Home and contents coverage.,Homeowners,600000,P097,Manulife Home Secure,10,Manulife
+Business Insurance,750000000,Comprehensive business protection.,Businesses,1600000,P098,Manulife Business Secure,5,Manulife
+Travel Insurance,22000000,Secure travel medical and cancellation.,Travelers,300000,P099,Manulife Travel Secure,1,Manulife
+Life Insurance,1000000000,Elite life coverage with premium benefits.,High‑net‑worth,1700000,P100,Manulife Life Elite,30,Manulife
+Health Insurance,400000000,Elite health plan with extensive network.,High‑net‑worth,1150000,P101,Manulife Health Elite,12,Manulife
+Accident Insurance,200000000,Elite accidental death and injury benefits.,High‑net‑worth,650000,P102,Manulife Accident Elite,5,Manulife
+Retirement Plan,3000000000,Elite retirement income solution.,High‑net‑worth,2800000,P103,Manulife Retirement Elite,30,Manulife
+Critical Illness,600000000,Ultra comprehensive critical illness coverage.,Ultra high net worth,1500000,P104,Manulife Critical Illness Ultra,15,Manulife
+Business Insurance,900000000,Full suite of elite business protections.,Elite businesses,1800000,P105,Manulife Business Elite,5,Manulife
+Travel Insurance,35000000,Elite travel coverage with concierge service.,Elite travelers,400000,P106,Manulife Travel Elite,1,Manulife
+Life Insurance,850000000,Secure life coverage for whole family.,Families,1500000,P107,Manulife Family Secure,25,Manulife
+Health Insurance,320000000,Enhanced health benefits.,Adults,1000000,P108,Manulife Health Secure Plus,12,Manulife
+Accident Insurance,140000000,Additional accidental injury coverage.,Adults,550000,P109,Manulife Accident Secure Plus,5,Manulife
+Savings Plan,1300000000,Enhanced savings with higher returns.,Adults,2200000,P110,Manulife Savings Secure Plus,25,Manulife
+Critical Illness,420000000,Additional covered conditions.,Adults,1100000,P111,Manulife Critical Illness Secure Plus,12,Manulife
+Property Insurance,300000000,Expanded home coverage.,Homeowners,650000,P112,Manulife Home Secure Plus,10,Manulife
+Business Insurance,800000000,Extended business protection.,Businesses,1700000,P113,Manulife Business Secure Plus,5,Manulife
+Travel Insurance,26000000,Additional travel benefits.,Travelers,320000,P114,Manulife Travel Secure Plus,1,Manulife
+Life Insurance,1200000000,Ultra high coverage life plan.,Ultra high net worth,1800000,P115,Manulife Life Protect Ultra,30,Manulife
+Health Insurance,450000000,Ultra premium health coverage.,Ultra high net worth,1200000,P116,Manulife Health Protect Ultra,12,Manulife
+Accident Insurance,250000000,Ultra high accidental coverage.,Ultra high net worth,700000,P117,Manulife Accident Protect Ultra,5,Manulife
+Retirement Plan,3500000000,Ultra elite retirement income.,Ultra high net worth,3000000,P118,Manulife Retirement Protect Ultra,30,Manulife
+Critical Illness,700000000,Ultra comprehensive critical illness.,Ultra high net worth,1600000,P119,Manulife Critical Illness Protect Ultra,15,Manulife
+Business Insurance,1000000000,Ultra comprehensive business coverage.,Ultra elite businesses,2000000,P120,Manulife Business Protect Ultra,5,Manulife
+Health Insurance,500000000,Comprehensive health coverage including inpatient and outpatient services.,Adults 18-60,1200000,PRD001,Prudential Health Plus,12,Prudential
+Family Health,1000000000,Covers the whole family with dental and vision benefits.,Families with children 0-18,2300000,PRD002,Prudential Family Care,12,Prudential
+Critical Illness,2000000000,Lump‑sum payment upon diagnosis of covered critical illnesses.,Adults 25-55,3500000,PRD003,Prudential Critical Illness Shield,24,Prudential
+Senior Health,300000000,Designed for seniors with lower premiums and essential coverage.,Seniors 60-75,900000,PRD004,Prudential Senior Health,12,Prudential
+Critical Illness,1500000000,Focused coverage for cancer treatment and related expenses.,Adults 30-65,2800000,PRD005,Prudential Cancer Care,12,Prudential
+Accident Insurance,200000000,Provides benefit for accidental injuries and death.,All ages,600000,PRD006,Prudential Accident Protect,12,Prudential
+Maternity Insurance,400000000,"Covers prenatal, delivery and post‑natal care.",Women 20-40,1500000,PRD007,Prudential Maternity Plus,12,Prudential
+Dental Insurance,100000000,"Routine dental check‑ups, cleaning and basic procedures.",All ages,400000,PRD008,Prudential Dental Care,12,Prudential
+Vision Insurance,80000000,"Covers eye exams, glasses and contact lenses.",All ages,350000,PRD009,Prudential Vision Guard,12,Prudential
+Travel Insurance,150000000,Emergency medical coverage while traveling abroad.,Travelers 18-70,500000,PRD010,Prudential Travel Health,6,Prudential
+Health Insurance,250000000,Essential health benefits for individuals.,Adults 18-45,800000,PRD011,Prudential Basic Health,12,Prudential
+Health Insurance,1200000000,Premium plan with extensive hospital network.,Adults 30-55,4200000,PRD012,Prudential Elite Health,12,Prudential
+Children's Health,300000000,Health coverage tailored for kids.,Children 0-12,900000,PRD013,Prudential Child Health,12,Prudential
+Wellness Program,0,Access to health check‑ups and wellness coaching.,All members,500000,PRD014,Prudential Wellness Plus,12,Prudential
+Critical Illness,1800000000,Specialized coverage for cardiovascular diseases.,Adults 35-65,3200000,PRD015,Prudential Heart Care,12,Prudential
+Critical Illness,1700000000,Lump‑sum payout for stroke diagnosis.,Adults 35-65,3100000,PRD016,Prudential Stroke Shield,12,Prudential
+Chronic Illness,600000000,Coverage for diabetes management and medication.,Adults 30-70,1600000,PRD017,Prudential Diabetes Care,12,Prudential
+Hospital Cash,0,Daily cash benefit during hospital stay.,All ages,700000,PRD018,Prudential Hospital Cash,12,Prudential
+Outpatient Insurance,150000000,"Covers doctor visits, labs and medicines.",Adults 18-60,550000,PRD019,Prudential Outpatient Plus,12,Prudential
+Critical Illness,1200000000,Critical illness coverage for seniors.,Seniors 60-80,2900000,PRD020,Prudential Senior Critical,12,Prudential
+Maternity Insurance,350000000,Comprehensive prenatal and delivery benefits.,Women 22-38,1400000,PRD021,Prudential Pregnancy Care,12,Prudential
+Dental Insurance,180000000,Dental care for whole family.,Families,650000,PRD022,Prudential Dental Family,12,Prudential
+Vision Insurance,120000000,Eye care for parents and children.,Families,600000,PRD023,Prudential Vision Family,12,Prudential
+Accident Insurance,250000000,Immediate cash benefit after accidents.,All ages,800000,PRD024,Prudential Emergency Aid,12,Prudential
+Critical Illness,2200000000,Higher payout for cancer diagnoses.,Adults 30-65,4500000,PRD025,Prudential Cancer Shield,12,Prudential
+Critical Illness,2000000000,Extensive heart disease coverage.,Adults 35-70,4300000,PRD026,Prudential Heart Shield,12,Prudential
+Critical Illness,1900000000,Stroke specific benefits.,Adults 35-70,4100000,PRD027,Prudential Stroke Care,12,Prudential
+Chronic Illness,800000000,"Covers insulin, monitoring devices and specialist visits.",Adults 30-70,2200000,PRD028,Prudential Diabetes Shield,12,Prudential
+Hospital Cash,0,Higher daily cash benefit.,All ages,900000,PRD029,Prudential Hospital Cash Plus,12,Prudential
+Outpatient Insurance,250000000,Expanded outpatient services.,Adults 18-60,800000,PRD030,Prudential Outpatient Elite,12,Prudential
+Senior Health,500000000,Enhanced coverage for seniors.,Seniors 65-80,1500000,PRD031,Prudential Senior Health Plus,12,Prudential
+Dental Insurance,90000000,Dental care focused on kids.,Children 0-12,350000,PRD032,Prudential Child Dental,12,Prudential
+Vision Insurance,70000000,Eye exams and glasses for children.,Children 0-12,300000,PRD033,Prudential Child Vision,12,Prudential
+Travel Insurance,100000000,Basic medical coverage abroad.,Travelers 18-65,400000,PRD034,Prudential Travel Basic,6,Prudential
+Travel Insurance,300000000,Premium travel medical and baggage protection.,Travelers 18-70,1200000,PRD035,Prudential Travel Premium,12,Prudential
+Accident Insurance,350000000,Accident benefits for all family members.,Families,1100000,PRD036,Prudential Accident Family,12,Prudential
+Wellness Program,0,Gym membership discounts and health coaching.,All members,600000,PRD037,Prudential Wellness Club,12,Prudential
+Critical Illness,1000000000,Fundamental critical illness coverage.,Adults 25-55,2500000,PRD038,Prudential Basic Critical,12,Prudential
+Critical Illness,3000000000,Top‑tier critical illness protection.,Adults 30-60,6500000,PRD039,Prudential Elite Critical,12,Prudential
+Health Insurance,800000000,Flexible deductible and coverage options.,Adults 18-55,2000000,PRD040,Prudential Health Flex,12,Prudential
+Family Health,1500000000,Customizable family health plan.,Families,3800000,PRD041,Prudential Family Flex,12,Prudential
+Critical Illness,2500000000,Adjustable cancer coverage.,Adults 30-65,5200000,PRD042,Prudential Cancer Flex,12,Prudential
+Critical Illness,2200000000,Flexible heart disease protection.,Adults 35-70,5000000,PRD043,Prudential Heart Flex,12,Prudential
+Critical Illness,2100000000,Customizable stroke benefits.,Adults 35-70,4900000,PRD044,Prudential Stroke Flex,12,Prudential
+Chronic Illness,900000000,Tailored diabetes coverage.,Adults 30-70,2400000,PRD045,Prudential Diabetes Flex,12,Prudential
+Hospital Cash,0,Adjustable daily cash benefit.,All ages,1000000,PRD046,Prudential Hospital Cash Flex,12,Prudential
+Outpatient Insurance,300000000,Custom outpatient benefits.,Adults 18-60,900000,PRD047,Prudential Outpatient Flex,12,Prudential
+Senior Health,600000000,Flexible senior health plan.,Seniors 60-80,1700000,PRD048,Prudential Senior Flex,12,Prudential
+Children's Health,350000000,Adjustable child health coverage.,Children 0-12,1000000,PRD049,Prudential Child Flex,12,Prudential
+Maternity Insurance,400000000,Flexible maternity benefits.,Women 22-38,1600000,PRD050,Prudential Maternity Flex,12,Prudential
+Dental Insurance,150000000,Adjustable dental coverage.,All ages,550000,PRD051,Prudential Dental Flex,12,Prudential
+Vision Insurance,110000000,Flexible vision benefits.,All ages,500000,PRD052,Prudential Vision Flex,12,Prudential
+Travel Insurance,200000000,Customizable travel medical coverage.,Travelers 18-70,800000,PRD053,Prudential Travel Flex,6,Prudential
+Accident Insurance,300000000,Adjustable accident protection.,All ages,1200000,PRD054,Prudential Accident Flex,12,Prudential
+Wellness Program,0,Tailored wellness services.,All members,700000,PRD055,Prudential Wellness Flex,12,Prudential
+Health Insurance,200000000,Entry‑level health coverage.,Adults 18-45,700000,PRD056,Prudential Basic Health,12,Prudential
+Health Insurance,1800000000,High‑value health plan with extensive network.,Adults 30-55,5000000,PRD057,Prudential Premium Health,12,Prudential
+Critical Illness,1200000000,Essential critical illness cover.,Adults 25-55,3000000,PRD058,Prudential Essential Critical,12,Prudential
+Critical Illness,3500000000,All‑inclusive critical illness protection.,Adults 30-65,7200000,PRD059,Prudential Comprehensive Critical,12,Prudential
+Critical Illness,1600000000,Basic heart disease coverage.,Adults 35-65,3800000,PRD060,Prudential Heart Basic,12,Prudential
+Critical Illness,1500000000,Basic stroke coverage.,Adults 35-65,3700000,PRD061,Prudential Stroke Basic,12,Prudential
+Chronic Illness,700000000,Basic diabetes management benefits.,Adults 30-70,2000000,PRD062,Prudential Diabetes Basic,12,Prudential
+Hospital Cash,0,Standard daily cash benefit.,All ages,600000,PRD063,Prudential Hospital Cash Basic,12,Prudential
+Outpatient Insurance,120000000,Basic outpatient services.,Adults 18-60,500000,PRD064,Prudential Outpatient Basic,12,Prudential
+Senior Health,400000000,Fundamental senior health plan.,Seniors 60-75,1200000,PRD065,Prudential Senior Basic,12,Prudential
+Children's Health,250000000,Basic health coverage for kids.,Children 0-12,800000,PRD066,Prudential Child Basic,12,Prudential
+Maternity Insurance,300000000,Fundamental maternity benefits.,Women 22-38,1300000,PRD067,Prudential Maternity Basic,12,Prudential
+Dental Insurance,80000000,Basic dental care.,All ages,350000,PRD068,Prudential Dental Basic,12,Prudential
+Vision Insurance,60000000,Basic vision coverage.,All ages,300000,PRD069,Prudential Vision Basic,12,Prudential
+Travel Insurance,120000000,Essential travel medical coverage.,Travelers 18-65,450000,PRD070,Prudential Travel Essential,6,Prudential
+Accident Insurance,180000000,Basic accident benefit.,All ages,600000,PRD071,Prudential Accident Basic,12,Prudential
+Wellness Program,0,Entry‑level wellness services.,All members,400000,PRD072,Prudential Wellness Basic,12,Prudential
+Health Insurance,900000000,Balanced health coverage.,Adults 18-55,2400000,PRD073,Prudential Health Shield,12,Prudential
+Family Health,1800000000,Comprehensive family protection.,Families,4500000,PRD074,Prudential Family Shield,12,Prudential
+Critical Illness,2800000000,Enhanced cancer benefits.,Adults 30-65,5800000,PRD075,Prudential Cancer Shield Plus,12,Prudential
+Critical Illness,2500000000,Enhanced heart disease coverage.,Adults 35-70,5500000,PRD076,Prudential Heart Shield Plus,12,Prudential
+Critical Illness,2400000000,Enhanced stroke payout.,Adults 35-70,5400000,PRD077,Prudential Stroke Shield Plus,12,Prudential
+Chronic Illness,1000000000,Enhanced diabetes support.,Adults 30-70,2800000,PRD078,Prudential Diabetes Shield Plus,12,Prudential
+Hospital Cash,0,Premium daily cash benefit.,All ages,1200000,PRD079,Prudential Hospital Cash Premium,12,Prudential
+Outpatient Insurance,350000000,Premium outpatient services.,Adults 18-60,1100000,PRD080,Prudential Outpatient Premium,12,Prudential
+Senior Health,800000000,Premium senior health coverage.,Seniors 65-80,2300000,PRD081,Prudential Senior Premium,12,Prudential
+Children's Health,500000000,Premium child health plan.,Children 0-12,1400000,PRD082,Prudential Child Premium,12,Prudential
+Maternity Insurance,500000000,Premium maternity benefits.,Women 22-38,2000000,PRD083,Prudential Maternity Premium,12,Prudential
+Dental Insurance,200000000,Premium dental coverage.,All ages,800000,PRD084,Prudential Dental Premium,12,Prudential
+Vision Insurance,150000000,Premium vision benefits.,All ages,700000,PRD085,Prudential Vision Premium,12,Prudential
+Travel Insurance,400000000,Full‑service travel protection.,Travelers 18-75,1500000,PRD086,Prudential Travel Premium Plus,12,Prudential
+Accident Insurance,400000000,Premium accident coverage.,All ages,1300000,PRD087,Prudential Accident Premium,12,Prudential
+Wellness Program,0,Premium wellness and coaching.,All members,900000,PRD088,Prudential Wellness Premium,12,Prudential
+Health Insurance,1100000000,Advantage plan with added telemedicine.,Adults 20-60,3200000,PRD089,Prudential Health Advantage,12,Prudential
+Family Health,2200000000,Advantage family protection.,Families,5000000,PRD090,Prudential Family Advantage,12,Prudential
+Critical Illness,3200000000,Advantage cancer coverage.,Adults 30-65,7000000,PRD091,Prudential Cancer Advantage,12,Prudential
+Critical Illness,3000000000,Advantage heart disease plan.,Adults 35-70,6800000,PRD092,Prudential Heart Advantage,12,Prudential
+Critical Illness,2900000000,Advantage stroke benefits.,Adults 35-70,6700000,PRD093,Prudential Stroke Advantage,12,Prudential
+Chronic Illness,1100000000,Advantage diabetes coverage.,Adults 30-70,3000000,PRD094,Prudential Diabetes Advantage,12,Prudential
+Hospital Cash,0,Advantage daily cash benefit.,All ages,1400000,PRD095,Prudential Hospital Cash Advantage,12,Prudential
+Outpatient Insurance,400000000,Advantage outpatient services.,Adults 18-60,1300000,PRD096,Prudential Outpatient Advantage,12,Prudential
+Senior Health,900000000,Advantage senior health plan.,Seniors 60-80,2600000,PRD097,Prudential Senior Advantage,12,Prudential
+Children's Health,600000000,Advantage child health.,Children 0-12,1600000,PRD098,Prudential Child Advantage,12,Prudential
+Maternity Insurance,600000000,Advantage maternity coverage.,Women 22-38,2200000,PRD099,Prudential Maternity Advantage,12,Prudential
+Dental Insurance,250000000,Advantage dental plan.,All ages,900000,PRD100,Prudential Dental Advantage,12,Prudential
+Vision Insurance,180000000,Advantage vision coverage.,All ages,800000,PRD101,Prudential Vision Advantage,12,Prudential
+Travel Insurance,250000000,Advantage travel protection.,Travelers 18-75,1000000,PRD102,Prudential Travel Advantage,12,Prudential
+Accident Insurance,450000000,Advantage accident benefits.,All ages,1500000,PRD103,Prudential Accident Advantage,12,Prudential
+Wellness Program,0,Advantage wellness services.,All members,1000000,PRD104,Prudential Wellness Advantage,12,Prudential
+Health Insurance,1300000000,Secure health plan with added mental health.,Adults 18-60,3600000,PRD105,Prudential Health Secure,12,Prudential
+Family Health,2600000000,Secure comprehensive family coverage.,Families,5500000,PRD106,Prudential Family Secure,12,Prudential
+Critical Illness,3600000000,Secure high‑value cancer protection.,Adults 30-65,7800000,PRD107,Prudential Cancer Secure,12,Prudential
+Critical Illness,3400000000,Secure heart disease plan.,Adults 35-70,7600000,PRD108,Prudential Heart Secure,12,Prudential
+Critical Illness,3300000000,Secure stroke coverage.,Adults 35-70,7500000,PRD109,Prudential Stroke Secure,12,Prudential
+Chronic Illness,1300000000,Secure diabetes benefits.,Adults 30-70,3500000,PRD110,Prudential Diabetes Secure,12,Prudential
+Hospital Cash,0,Secure daily cash benefit.,All ages,1600000,PRD111,Prudential Hospital Cash Secure,12,Prudential
+Outpatient Insurance,450000000,Secure outpatient coverage.,Adults 18-60,1400000,PRD112,Prudential Outpatient Secure,12,Prudential
+Senior Health,1100000000,Secure senior health plan.,Seniors 60-85,3000000,PRD113,Prudential Senior Secure,12,Prudential
+Children's Health,700000000,Secure child health coverage.,Children 0-12,1900000,PRD114,Prudential Child Secure,12,Prudential
+Maternity Insurance,700000000,Secure maternity benefits.,Women 22-38,2400000,PRD115,Prudential Maternity Secure,12,Prudential
+Dental Insurance,300000000,Secure dental plan.,All ages,1000000,PRD116,Prudential Dental Secure,12,Prudential
+Vision Insurance,220000000,Secure vision coverage.,All ages,900000,PRD117,Prudential Vision Secure,12,Prudential
+Travel Insurance,350000000,Secure travel medical protection.,Travelers 18-75,1200000,PRD118,Prudential Travel Secure,12,Prudential
+Accident Insurance,500000000,Secure accident benefits.,All ages,1600000,PRD119,Prudential Accident Secure,12,Prudential
+Wellness Program,0,Secure wellness services.,All members,1100000,PRD120,Prudential Wellness Secure,12,Prudential

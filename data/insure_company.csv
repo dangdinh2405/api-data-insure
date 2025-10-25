@@ -1,0 +1,100 @@
+Category,Cost,Description,Eligibility,Monthly,ID,Product Name,Year,Company name
+Life Insurance,500000000,Comprehensive term life coverage with flexible premium payment.,Vietnam residents aged 18-55,1200000,P001,Life Secure,20,PeDang Insure
+Health Insurance,200000000,Hospitalization and surgical expense coverage.,Vietnam residents aged 20-60,800000,P002,Health Protect,10,PeDang Insure
+Accident Insurance,150000000,Accidental death and disability benefits.,Vietnam residents aged 18-65,500000,P003,Accident Guard,5,PeDang Insure
+Savings Plan,1000000000,Savings plan with guaranteed returns and life coverage.,Vietnam residents aged 25-55,1500000,P004,Savings Plus,25,PeDang Insure
+Retirement Plan,2000000000,Provides regular income after retirement.,Vietnam residents aged 30-60,2000000,P005,Retirement Income,30,PeDang Insure
+Critical Illness,300000000,Lump‑sum payout upon diagnosis of covered illnesses.,Vietnam residents aged 25-60,900000,P006,Critical Illness Cover,15,PeDang Insure
+Family Health Insurance,250000000,Covers entire family for hospital and outpatient care.,Vietnam families (head of household 25-55),1200000,P007,Family Health,12,PeDang Insure
+Education Savings,500000000,Savings for children's higher education with life protection.,Parents aged 25-45,700000,P008,Child Education Plan,18,PeDang Insure
+Travel Insurance,10000000,Medical and trip cancellation coverage for overseas trips.,Vietnam residents traveling abroad,200000,P009,Travel Protect,1,PeDang Insure
+Property Insurance,200000000,"Covers fire, natural disaster, and theft.",Homeowners aged 25-65,600000,P010,Home Owner Protect,10,PeDang Insure
+Liability Insurance,300000000,Protects against third‑party claims.,SMEs aged 18-65,1100000,P011,Business Liability,5,PeDang Insure
+Critical Illness,250000000,Dedicated coverage for cancer treatment costs.,Vietnam residents aged 30-60,850000,P012,Cancer Care,12,PeDang Insure
+Health Insurance,150000000,Hospital and outpatient coverage for seniors.,Seniors aged 60-75,750000,P013,Senior Care,8,PeDang Insure
+Income Protection,200000000,Monthly income replacement if unable to work.,Employed adults aged 25-55,950000,P014,Income Protect,7,PeDang Insure
+Disability Insurance,180000000,Long‑term disability benefits.,Vietnam residents aged 20-55,800000,P015,Disability Shield,10,PeDang Insure
+Health Insurance,120000000,Tailored health coverage for women.,Women aged 18-55,650000,P016,Women Health,10,PeDang Insure
+Health Insurance,100000000,Maternity hospital and prenatal care.,Pregnant women aged 20-45,500000,P017,Pregnancy Care,2,PeDang Insure
+Group Life Insurance,400000000,Life coverage for all eligible staff.,Companies with 10+ employees,1300000,P018,Group Life,15,PeDang Insure
+Accident Insurance,120000000,Accidental death and medical expense benefits.,Individuals aged 18-65,450000,P019,Personal Accident,5,PeDang Insure
+Mortgage Protection,250000000,Pays off mortgage if policyholder passes away.,Homeowners with mortgage,700000,P020,Mortgage Protect,20,PeDang Insure
+Investment-linked,1500000000,Combines investment growth with life coverage.,Adults aged 30-60,2500000,P021,Wealth Builder,20,PeDang Insure
+Life Insurance,600000000,Affordable term life with renewal options.,Vietnam residents aged 18-55,1100000,P022,Term Life Plus,25,PeDang Insure
+Health Insurance,50000000,Daily cash benefit during hospital stay.,Individuals aged 18-65,300000,P023,Hospital Cash,1,PeDang Insure
+Dental Insurance,30000000,Covers dental procedures and orthodontics.,Adults aged 18-60,250000,P024,Dental Protect,2,PeDang Insure
+Vision Insurance,20000000,"Covers eye exams, glasses, and contacts.",Adults aged 18-60,200000,P025,Vision Care,2,PeDang Insure
+Retirement Income,1800000000,Guaranteed monthly pension after retirement.,Seniors aged 55-70,1900000,P026,Senior Income,30,PeDang Insure
+Health Insurance,80000000,Pediatric hospital and outpatient coverage.,Parents with children aged 0-12,400000,P027,Child Health,10,PeDang Insure
+Business Insurance,500000000,Protects revenue loss from interruptions.,SMEs aged 18-65,1200000,P028,Business Continuity,5,PeDang Insure
+Property Insurance,250000000,Coverage for flood damage.,Homeowners in flood‑prone areas,550000,P029,Flood Protect,10,PeDang Insure
+Property Insurance,300000000,Coverage for earthquake damage.,Homeowners in seismic zones,600000,P030,Earthquake Shield,10,PeDang Insure
+Loan Protection,150000000,Pays off loan if borrower dies or becomes disabled.,Individuals with personal loans,500000,P031,Personal Loan Protect,5,PeDang Insure
+Auto Insurance,200000000,Comprehensive car coverage.,Car owners aged 18-70,850000,P032,Car Owner Protect,5,PeDang Insure
+Commercial Auto,400000000,Coverage for multiple commercial vehicles.,Businesses with vehicle fleets,1500000,P033,Motor Fleet,5,PeDang Insure
+Pet Insurance,50000000,Veterinary expense coverage for dogs and cats.,Pet owners aged 18-65,300000,P034,Pet Care,2,PeDang Insure
+Cyber Liability,250000000,Protects against data breach costs.,Businesses handling data,1300000,P035,Cyber Risk,3,PeDang Insure
+Education Loan Protection,100000000,Pays off loan if borrower passes away.,Students with education loans,400000,P036,Education Loan Cover,5,PeDang Insure
+Life Insurance,700000000,Adjustable premium schedule.,Vietnam residents aged 18-55,1300000,P037,Flexible Premium Life,20,PeDang Insure
+Health Insurance,300000000,Covers nursing home and home care costs.,Adults aged 45-70,900000,P038,Long‑Term Care,10,PeDang Insure
+Income Protection,220000000,Income replacement for business owners.,Self‑employed aged 25-55,1000000,P039,Income Plus,8,PeDang Insure
+Group Benefits,600000000,Comprehensive health and life benefits for employees.,Companies with 50+ staff,1400000,P040,Employee Benefits,12,PeDang Insure
+Critical Illness,200000000,Continued coverage after remission.,Cancer survivors aged 30-65,800000,P041,Cancer Survivor,12,PeDang Insure
+Property Insurance,220000000,Combined flood and storm damage coverage.,Homeowners in coastal areas,580000,P042,Flood & Storm,10,PeDang Insure
+Business Insurance,800000000,"Package of liability, property, and business interruption.",Small enterprises,1700000,P043,Small Business Bundle,5,PeDang Insure
+Health Savings,150000000,Tax‑advantaged health spending account.,Individuals aged 25-60,600000,P044,Health Savings Account,10,PeDang Insure
+Travel Insurance,15000000,Medical expenses coverage while overseas.,Vietnam residents traveling abroad,250000,P045,Travel Medical,1,PeDang Insure
+Life Insurance,80000000,Provides funds for funeral expenses.,Individuals aged 18-70,350000,P046,Funeral Cover,5,PeDang Insure
+Group Life,350000000,Basic life coverage for staff.,Companies with 20+ employees,1200000,P047,Employee Life,15,PeDang Insure
+Critical Illness,400000000,Broader list of covered conditions.,Vietnam residents aged 30-60,1100000,P048,Critical Illness Plus,15,PeDang Insure
+Health Insurance,180000000,Hospital and outpatient coverage for older adults.,Seniors aged 60-75,850000,P049,Senior Health,8,PeDang Insure
+Investment-linked,2000000000,Investment growth with death benefit.,Adults aged 35-60,2600000,P050,Wealth Accumulator,25,PeDang Insure
+Disability Insurance,210000000,Monthly disability income.,Employed adults aged 25-55,950000,P051,Disability Income,10,PeDang Insure
+Property Insurance,120000000,Covers damage during renovation.,Homeowners renovating,500000,P052,Home Renovation Protect,5,PeDang Insure
+Liability Insurance,250000000,Third‑party liability coverage.,SMEs,900000,P053,Small Business Liability,5,PeDang Insure
+Accident Insurance,80000000,Accidental injury coverage for kids.,Parents with children,350000,P054,Child Accident,5,PeDang Insure
+Savings Plan,900000000,Flexible contribution savings with life cover.,Vietnam residents aged 25-55,1400000,P055,Flexible Savings,20,PeDang Insure
+Critical Illness,350000000,Enhanced cancer treatment coverage.,Vietnam residents aged 30-60,950000,P056,Cancer Care Plus,12,PeDang Insure
+Travel Insurance,12000000,Trip cancellation and interruption.,Travelers,220000,P057,Travel Cancel Protect,1,PeDang Insure
+Business Insurance,450000000,Protects personal assets of business owners.,Business owners,1300000,P058,Business Owner Protect,5,PeDang Insure
+Health Insurance,220000000,Long‑term care and nursing home coverage.,Elderly aged 65-80,800000,P059,Elderly Care,8,PeDang Insure
+Life Insurance,800000000,High coverage term life with renewal.,Vietnam residents aged 18-55,1500000,P060,Life Shield,30,PeDang Insure
+Health Insurance,250000000,Comprehensive health coverage with low co‑pay.,Adults aged 20-60,950000,P061,Health Shield,12,PeDang Insure
+Mortgage Protection,300000000,Covers monthly mortgage payments.,Homeowners with mortgage,750000,P062,Mortgage Payment Protect,20,PeDang Insure
+Business Insurance,500000000,Compensates lost income after disruptions.,Businesses,1600000,P063,Business Interruption,5,PeDang Insure
+Critical Illness,250000000,Critical illness cover for older adults.,Seniors aged 55-75,850000,P064,Critical Illness Senior,10,PeDang Insure
+Group Health Insurance,700000000,Comprehensive health benefits for employees.,Companies with 30+ staff,1500000,P065,Group Health,12,PeDang Insure
+Loan Protection,120000000,Pays off loan on death or disability.,Individuals with personal loans,450000,P066,Personal Loan Insurance,5,PeDang Insure
+Auto Insurance,150000000,Third‑party liability coverage.,Car owners,700000,P067,Auto Liability,5,PeDang Insure
+Dental Insurance,50000000,Dental care for whole family.,Families,300000,P068,Dental Family,2,PeDang Insure
+Vision Insurance,25000000,Eye care for family members.,Families,250000,P069,Vision Family,2,PeDang Insure
+Health Insurance,60000000,Health coverage for university students.,Students,350000,P070,Student Health,1,PeDang Insure
+Savings Plan,1100000000,Savings with life protection.,Adults,2000000,P071,Life Savings,25,PeDang Insure
+Critical Illness,300000000,Coverage for any family member.,Families,900000,P072,Critical Illness Family,12,PeDang Insure
+Retirement Plan,2500000000,Long‑term retirement savings.,Adults,2600000,P073,Retirement Savings,30,PeDang Insure
+Property Insurance,150000000,Covers personal belongings inside home.,Homeowners,500000,P074,Home Contents,10,PeDang Insure
+Property Insurance,600000000,Covers business premises and assets.,Businesses,1400000,P075,Business Property,5,PeDang Insure
+Accident & Health,200000000,Combined accident and health benefits.,Individuals,850000,P076,Accident & Health,10,PeDang Insure
+Travel Insurance,18000000,Emergency medical evacuation.,Travelers,260000,P077,Travel Emergency,1,PeDang Insure
+Life Insurance,900000000,High coverage with flexible terms.,Vietnam residents,1600000,P078,Life Protect Plus,30,PeDang Insure
+Health Insurance,300000000,Enhanced health coverage.,Adults,1000000,P079,Health Protect Plus,12,PeDang Insure
+Income Protection,230000000,Income replacement for freelancers.,Self‑employed,1050000,P080,Income Shield,8,PeDang Insure
+Liability Insurance,350000000,Extended third‑party liability.,Businesses,1200000,P081,Business Liability Plus,5,PeDang Insure
+Critical Illness,500000000,Premium coverage for elite clients.,High‑net‑worth,1300000,P082,Critical Illness Elite,15,PeDang Insure
+Life Insurance,750000000,Life coverage for whole family.,Families,1400000,P083,Family Life,25,PeDang Insure
+Travel Insurance,25000000,Travel coverage for older adults.,Seniors,300000,P084,Senior Travel,1,PeDang Insure
+Life Insurance,400000000,Life coverage protecting business continuity.,Business owners,1100000,P085,Business Owner Life,20,PeDang Insure
+Health Insurance,350000000,Comprehensive health with wellness benefits.,Adults,1050000,P086,Health Plus,12,PeDang Insure
+Disability Insurance,250000000,Higher benefit amounts.,Employed,950000,P087,Disability Plus,10,PeDang Insure
+Travel Insurance,20000000,Travel coverage for whole family.,Families,280000,P088,Travel Family,1,PeDang Insure
+Mortgage Protection,350000000,Life cover linked to mortgage balance.,Homeowners,800000,P089,Mortgage Life,20,PeDang Insure
+Property Insurance,400000000,Broad property damage coverage.,Homeowners,1300000,P090,Property Shield,10,PeDang Insure
+Travel Insurance,30000000,Travel insurance for corporate trips.,Business travelers,350000,P091,Business Travel,1,PeDang Insure
+Life Insurance,600000000,Life cover tailored for seniors.,Seniors,1200000,P092,Life Secure Senior,25,PeDang Insure
+Health Insurance,280000000,Secure health coverage with low co‑pay.,Adults,950000,P093,Health Secure,12,PeDang Insure
+Accident Insurance,130000000,Accident death and medical benefits.,Individuals,500000,P094,Accident Secure,5,PeDang Insure
+Savings Plan,1200000000,Secure savings with life protection.,Adults,2100000,P095,Savings Secure,25,PeDang Insure
+Critical Illness,380000000,Secure critical illness coverage.,Adults,1050000,P096,Critical Illness Secure,12,PeDang Insure
+Property Insurance,250000000,Home and contents coverage.,Homeowners,600000,P097,Home Secure,10,PeDang Insure
+Business Insurance,750000000,Comprehensive business protection.,Businesses,1600000,P098,Business Secure,5,PeDang Insure
+Travel Insurance,22000000,Secure travel medical and cancellation.,Travelers,300000,P099,Travel Secure,1,PeDang Insure
