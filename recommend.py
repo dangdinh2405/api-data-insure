@@ -3,14 +3,14 @@ from flask_cors import CORS
 import pandas as pd
 from pathlib import Path
 import os
-from typing import Any, List, Optional
+from typing import Any, Optional
 from unidecode import unidecode
 import re
 
 app = Flask(__name__)
 CORS(app)
 
-DATA_PATH = Path(os.getenv("CSV_PATH", "D:\HaiDang\data\products.csv"))
+DATA_PATH = Path(os.getenv("CSV_PATH", "data/products.csv"))
 
 CATEGORY_SYNONYMS = {
     "accident": [
@@ -50,7 +50,6 @@ CATEGORY_SYNONYMS = {
         "optical", "optometry", "khám mắt", "bảo hiểm mắt"
     ]
 }
-
 
 CANONICAL = {}
 for canon, syns in CATEGORY_SYNONYMS.items():
@@ -116,34 +115,34 @@ def recommend():
         body = request.get_json(silent=True) or {}
         categories = body.get("categories") or []
 
-        limit_raw = body.get("limit", None)
+        # parse limit
         limit = None
+        limit_raw = body.get("limit", None)
         if isinstance(limit_raw, str):
             if limit_raw.strip().lower() != "all":
                 try:
                     v = int(limit_raw)
                     limit = None if v <= 0 else v
                 except:
-                    limit = None                   
+                    limit = None
         elif isinstance(limit_raw, (int, float)):
             limit = None if int(limit_raw) <= 0 else int(limit_raw)
-        else:
-            limit = None
 
+        # build wanted set
         wanted = set()
         for c in categories:
             wanted.add(CANONICAL.get(normalize(c), normalize(c)))
 
         mask = pd.Series(True, index=df_cache.index)
         if wanted:
-            import re
             syns = []
             for canon in wanted:
                 syns.extend(CATEGORY_SYNONYMS.get(canon, [canon]))
             syns_norm = [re.escape(normalize(s)) for s in syns if s]
             if syns_norm:
-                cat_re = re.compile("(" + "|".join(syns_norm) + ")")
-                mask = mask & df_cache["_category_n"].str.contains(cat_re, na=False, regex=False)
+                # ✅ Sửa cảnh báo: dùng regex=True và pattern dạng chuỗi
+                pattern = "(" + "|".join(syns_norm) + ")"
+                mask = mask & df_cache["_category_n"].str.contains(pattern, na=False, regex=True)
 
         filtered = df_cache[mask]
         results = filtered if limit is None else filtered.head(limit)
@@ -156,4 +155,5 @@ def recommend():
 
 
 if __name__ == "__main__":
+    # Local only
     app.run(host="0.0.0.0", port=int(os.getenv("PORT", "8001")), debug=True)
