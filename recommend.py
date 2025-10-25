@@ -127,6 +127,8 @@ def recommend():
                     limit = None
         elif isinstance(limit_raw, (int, float)):
             limit = None if int(limit_raw) <= 0 else int(limit_raw)
+        else:
+            limit = None
 
         # build wanted set
         wanted = set()
@@ -135,13 +137,13 @@ def recommend():
 
         mask = pd.Series(True, index=df_cache.index)
         if wanted:
+            import re
             syns = []
             for canon in wanted:
                 syns.extend(CATEGORY_SYNONYMS.get(canon, [canon]))
             syns_norm = [re.escape(normalize(s)) for s in syns if s]
             if syns_norm:
-                # ✅ Sửa cảnh báo: dùng regex=True và pattern dạng chuỗi
-                pattern = "(" + "|".join(syns_norm) + ")"
+                cat_re = re.compile("(" + "|".join(syns_norm) + ")")
                 mask = mask & df_cache["_category_n"].str.contains(pattern, na=False, regex=True)
 
         filtered = df_cache[mask]
