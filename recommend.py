@@ -143,8 +143,8 @@ def recommend():
                 syns.extend(CATEGORY_SYNONYMS.get(canon, [canon]))
             syns_norm = [re.escape(normalize(s)) for s in syns if s]
             if syns_norm:
-                cat_re = re.compile("(" + "|".join(syns_norm) + ")")
-                mask = mask & df_cache["_category_n"].str.contains(cat_re, na=False, regex=True)
+                pattern = "(" + "|".join(syns_norm) + ")"
+                mask = mask & df_cache["_category_n"].str.contains(pattern, na=False, regex=True)
 
         filtered = df_cache[mask]
         results = filtered if limit is None else filtered.head(limit)
